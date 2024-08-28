@@ -659,7 +659,7 @@ h4 {
     /*Pagina 2*/
 
     .sobre /*section 1*/ {
-        background-image: url("/img/image\ 1.png");
+        background-image: url("../img/image\ 1.png");
         height: 30vh; /* Reduz a altura para telas menores */
         background-size: cover; /* Garante que a imagem cubra toda a seção */
         background-position: center; /* Centraliza a imagem */
